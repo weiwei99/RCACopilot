@@ -1,4 +1,4 @@
-# CloudGPT for Microsoft Services
+# CloudGPT for Cloud Services
 
 
 
